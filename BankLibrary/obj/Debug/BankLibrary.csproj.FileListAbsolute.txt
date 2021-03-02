@@ -1,0 +1,6 @@
+C:\Users\fedor\RiderProjects\First Practice Project\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\fedor\RiderProjects\First Practice Project\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\fedor\RiderProjects\First Practice Project\BankLibrary\obj\Debug\BankLibrary.csprojAssemblyReference.cache
+C:\Users\fedor\RiderProjects\First Practice Project\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fedor\RiderProjects\First Practice Project\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\fedor\RiderProjects\First Practice Project\BankLibrary\obj\Debug\BankLibrary.pdb

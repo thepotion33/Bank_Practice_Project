@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.First Practice Project.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\fedor\RiderProjects\First Practice Project\.idea\.idea.First Practice Project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

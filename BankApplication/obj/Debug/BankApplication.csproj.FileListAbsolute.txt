@@ -1,0 +1,9 @@
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\bin\Debug\BankLibrary.dll
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\bin\Debug\BankLibrary.pdb
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\fedor\RiderProjects\First Practice Project\BankApplication\obj\Debug\BankApplication.pdb
